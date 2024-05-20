@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DetailsFormPrinter4</string>
+    <string-array name="state">
+        <item>Andhra Pradesh</item>
+        <item>Tamil Nadu</item>
+        <item>Maharashtra</item>
+        <item>Madhya Pradesh</item>
+        <item>Kerala</item>
+        <item>Karnataka</item>
+    </string-array>
+
+</resources>
